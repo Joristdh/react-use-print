@@ -13,7 +13,8 @@
   "exports": {
     ".": {
       "import": "./dist/react-use-print.es.js",
-      "require": "./dist/react-use-print.umd.js"
+      "require": "./dist/react-use-print.umd.js",
+      "types": "./dist/index.d.ts"
     }
   },
   "scripts": {
